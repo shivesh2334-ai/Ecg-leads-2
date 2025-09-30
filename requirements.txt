@@ -1,0 +1,12 @@
+
+gradio
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+pydicom
+Pillow
+joblib
+scipy
